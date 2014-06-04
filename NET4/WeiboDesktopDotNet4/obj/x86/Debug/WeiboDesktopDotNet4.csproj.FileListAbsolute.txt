@@ -1,0 +1,12 @@
+C:\Users\User\Downloads\WeiboSDKDemo\NET4\WeiboDesktopDotNet4\bin\Debug\WeiboDesktopDotNet4.exe.config
+C:\Users\User\Downloads\WeiboSDKDemo\NET4\WeiboDesktopDotNet4\bin\Debug\WeiboDesktopDotNet4.exe
+C:\Users\User\Downloads\WeiboSDKDemo\NET4\WeiboDesktopDotNet4\bin\Debug\WeiboDesktopDotNet4.pdb
+C:\Users\User\Downloads\WeiboSDKDemo\NET4\WeiboDesktopDotNet4\bin\Debug\NetDimension.Weibo.dll
+C:\Users\User\Downloads\WeiboSDKDemo\NET4\WeiboDesktopDotNet4\bin\Debug\NetDimension.Weibo.pdb
+C:\Users\User\Downloads\WeiboSDKDemo\NET4\WeiboDesktopDotNet4\bin\Debug\NetDimension.Weibo.xml
+C:\Users\User\Downloads\WeiboSDKDemo\NET4\WeiboDesktopDotNet4\obj\x86\Debug\WeiboDesktopDotNet4.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\WeiboSDKDemo\NET4\WeiboDesktopDotNet4\obj\x86\Debug\WeiboDesktopDotNet4.frmChat.resources
+C:\Users\User\Downloads\WeiboSDKDemo\NET4\WeiboDesktopDotNet4\obj\x86\Debug\WeiboDesktopDotNet4.Properties.Resources.resources
+C:\Users\User\Downloads\WeiboSDKDemo\NET4\WeiboDesktopDotNet4\obj\x86\Debug\WeiboDesktopDotNet4.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\WeiboSDKDemo\NET4\WeiboDesktopDotNet4\obj\x86\Debug\WeiboDesktopDotNet4.exe
+C:\Users\User\Downloads\WeiboSDKDemo\NET4\WeiboDesktopDotNet4\obj\x86\Debug\WeiboDesktopDotNet4.pdb

@@ -1,0 +1,132 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiboDesktopDotNet2", "NET2\WeiboDesktopDotNet2\WeiboDesktopDotNet2.csproj", "{68F10FBF-F820-4AFC-AB61-92317F3FC6CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeiboDesktopDotNet4", "NET4\WeiboDesktopDotNet4\WeiboDesktopDotNet4.csproj", "{598A3B59-304D-4C89-A7A1-5764C318B3A6}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WeiboDotNet2", "NET2\WeiboDotNet2", "{F2F29D45-F0D3-4CAB-BC7E-2CD09BCDC6A2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv2.0"
+		Debug.AspNetCompiler.VirtualPath = "/WeiboDotNet2"
+		Debug.AspNetCompiler.PhysicalPath = "NET2\WeiboDotNet2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WeiboDotNet2\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WeiboDotNet2"
+		Release.AspNetCompiler.PhysicalPath = "NET2\WeiboDotNet2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WeiboDotNet2\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3750"
+		VWDDynamicPort = "false"
+		VWDVirtualPath = "/"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WeiboDotNet4", "NET4\WeiboDotNet4", "{52FD4B79-2C16-4FCA-B027-EABB1C94AD3F}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/WeiboDotNet4"
+		Debug.AspNetCompiler.PhysicalPath = "NET4\WeiboDotNet4\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WeiboDotNet4\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WeiboDotNet4"
+		Release.AspNetCompiler.PhysicalPath = "NET4\WeiboDotNet4\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WeiboDotNet4\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3750"
+		VWDDynamicPort = "false"
+		VWDVirtualPath = "/"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{BDBDAFA1-C704-4B3B-8449-51620A622E47}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dotNET2", "dotNET2", "{3966618F-0A29-4CE7-8133-82D361145BEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dotNET4", "dotNET4", "{AE87D762-763F-4839-9071-2E6BCA2FC31D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NET20", "NET20", "{60B6690E-CDF9-458B-BC00-C7E842580EE5}"
+	ProjectSection(SolutionItems) = preProject
+		Libs\NET20\NetDimension.Weibo.dll = Libs\NET20\NetDimension.Weibo.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NET40", "NET40", "{7DB4D52C-C7BC-4FF2-AB4E-A1CECF23F2A4}"
+	ProjectSection(SolutionItems) = preProject
+		Libs\NET40\NetDimension.Weibo.dll = Libs\NET40\NetDimension.Weibo.dll
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F10FBF-F820-4AFC-AB61-92317F3FC6CC}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{68F10FBF-F820-4AFC-AB61-92317F3FC6CC}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{68F10FBF-F820-4AFC-AB61-92317F3FC6CC}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{68F10FBF-F820-4AFC-AB61-92317F3FC6CC}.Debug|x86.ActiveCfg = Debug|x86
+		{68F10FBF-F820-4AFC-AB61-92317F3FC6CC}.Debug|x86.Build.0 = Debug|x86
+		{68F10FBF-F820-4AFC-AB61-92317F3FC6CC}.Release|Any CPU.ActiveCfg = Release|x86
+		{68F10FBF-F820-4AFC-AB61-92317F3FC6CC}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{68F10FBF-F820-4AFC-AB61-92317F3FC6CC}.Release|Mixed Platforms.Build.0 = Release|x86
+		{68F10FBF-F820-4AFC-AB61-92317F3FC6CC}.Release|x86.ActiveCfg = Release|x86
+		{68F10FBF-F820-4AFC-AB61-92317F3FC6CC}.Release|x86.Build.0 = Release|x86
+		{598A3B59-304D-4C89-A7A1-5764C318B3A6}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{598A3B59-304D-4C89-A7A1-5764C318B3A6}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{598A3B59-304D-4C89-A7A1-5764C318B3A6}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{598A3B59-304D-4C89-A7A1-5764C318B3A6}.Debug|x86.ActiveCfg = Debug|x86
+		{598A3B59-304D-4C89-A7A1-5764C318B3A6}.Debug|x86.Build.0 = Debug|x86
+		{598A3B59-304D-4C89-A7A1-5764C318B3A6}.Release|Any CPU.ActiveCfg = Release|x86
+		{598A3B59-304D-4C89-A7A1-5764C318B3A6}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{598A3B59-304D-4C89-A7A1-5764C318B3A6}.Release|Mixed Platforms.Build.0 = Release|x86
+		{598A3B59-304D-4C89-A7A1-5764C318B3A6}.Release|x86.ActiveCfg = Release|x86
+		{598A3B59-304D-4C89-A7A1-5764C318B3A6}.Release|x86.Build.0 = Release|x86
+		{F2F29D45-F0D3-4CAB-BC7E-2CD09BCDC6A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F29D45-F0D3-4CAB-BC7E-2CD09BCDC6A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F29D45-F0D3-4CAB-BC7E-2CD09BCDC6A2}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F2F29D45-F0D3-4CAB-BC7E-2CD09BCDC6A2}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F2F29D45-F0D3-4CAB-BC7E-2CD09BCDC6A2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F2F29D45-F0D3-4CAB-BC7E-2CD09BCDC6A2}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F29D45-F0D3-4CAB-BC7E-2CD09BCDC6A2}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{F2F29D45-F0D3-4CAB-BC7E-2CD09BCDC6A2}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F2F29D45-F0D3-4CAB-BC7E-2CD09BCDC6A2}.Release|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F2F29D45-F0D3-4CAB-BC7E-2CD09BCDC6A2}.Release|x86.ActiveCfg = Debug|Any CPU
+		{52FD4B79-2C16-4FCA-B027-EABB1C94AD3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FD4B79-2C16-4FCA-B027-EABB1C94AD3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52FD4B79-2C16-4FCA-B027-EABB1C94AD3F}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{52FD4B79-2C16-4FCA-B027-EABB1C94AD3F}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{52FD4B79-2C16-4FCA-B027-EABB1C94AD3F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{52FD4B79-2C16-4FCA-B027-EABB1C94AD3F}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{52FD4B79-2C16-4FCA-B027-EABB1C94AD3F}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{52FD4B79-2C16-4FCA-B027-EABB1C94AD3F}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{52FD4B79-2C16-4FCA-B027-EABB1C94AD3F}.Release|Mixed Platforms.Build.0 = Debug|Any CPU
+		{52FD4B79-2C16-4FCA-B027-EABB1C94AD3F}.Release|x86.ActiveCfg = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{60B6690E-CDF9-458B-BC00-C7E842580EE5} = {BDBDAFA1-C704-4B3B-8449-51620A622E47}
+		{7DB4D52C-C7BC-4FF2-AB4E-A1CECF23F2A4} = {BDBDAFA1-C704-4B3B-8449-51620A622E47}
+		{68F10FBF-F820-4AFC-AB61-92317F3FC6CC} = {3966618F-0A29-4CE7-8133-82D361145BEE}
+		{F2F29D45-F0D3-4CAB-BC7E-2CD09BCDC6A2} = {3966618F-0A29-4CE7-8133-82D361145BEE}
+		{52FD4B79-2C16-4FCA-B027-EABB1C94AD3F} = {AE87D762-763F-4839-9071-2E6BCA2FC31D}
+		{598A3B59-304D-4C89-A7A1-5764C318B3A6} = {AE87D762-763F-4839-9071-2E6BCA2FC31D}
+	EndGlobalSection
+EndGlobal
